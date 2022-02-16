@@ -1,2 +1,2 @@
 # OIBGRIP-Web-Development
-Oasis Infobyte Web development Internship
+Oasis Infobyte Web development and Design Internship
